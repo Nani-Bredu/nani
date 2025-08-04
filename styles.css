@@ -558,3 +558,8 @@
     .core-item {
       margin-bottom: 30px;
     }
+.underline {
+  width: 60px;
+  height: 4px;
+  background-color: #2f8c3c;
+}
