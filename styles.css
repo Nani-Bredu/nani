@@ -526,4 +526,35 @@
       font-size: 14px;
       color: #555;
       text-transform: uppercase;
+
+    }
+
+   .core-header {
+      background-color: #0b3d02; /* Dark green */
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
+
+    .core-section {
+      background-color: #7637c9; /* Purple background */
+      color: white;
+      padding: 50px 20px;
+      text-align: center;
+    }
+
+    .core-section h3 {
+      color: limegreen;
+      font-weight: bold;
+      margin-bottom: 30px;
+    }
+
+    .core-icon {
+      font-size: 2rem;
+      margin-bottom: 10px;
+      display: block;
+    }
+
+    .core-item {
+      margin-bottom: 30px;
     }
